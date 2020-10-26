@@ -1,0 +1,29 @@
+html:root {
+    font-size: 2rem;
+}
+h1 {
+    font-size: 1.8rem;
+}
+.x-small {
+    font-size: 0.3rem;
+}
+.small {
+    font-size: 0.6rem;
+}
+.medium {
+    font-size: 0.9rem;
+}
+.large {
+    font-size: 1.3rem;
+}
+.x-large {
+    font-size: 2.5rem;
+}
+footer {
+    font-size: 2rem;
+}
+.description {
+    font-size: 0.8em;
+}
+body {background-color: #ffffff;
+color: black;}
